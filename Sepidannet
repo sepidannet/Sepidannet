@@ -1,0 +1,46 @@
+DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <title>سپیدان‌نت | Sepidan.net</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      background: #f5f5f5;
+      text-align: center;
+      padding: 30px;
+    }
+    img {
+      width: 140px;
+      border-radius: 50%;
+    }
+    h1 {
+      color: #004080;
+    }
+    a {
+      display: block;
+      margin: 12px auto;
+      padding: 12px;
+      width: 90%;
+      max-width: 300px;
+      text-decoration: none;
+      background: #007acc;
+      color: white;
+      border-radius: 8px;
+      font-weight: bold;
+    }
+    a:hover {
+      background: #005999;
+    }
+  </style>
+</head>
+<body>
+  <img src="logo.png" alt="لوگوی سپیدان‌نت">
+  <h1>سپیدان‌نت</h1>
+  <a href="https://instagram.com/sepidan.net.ir">اینستاگرام</a>
+  <a href="https://t.me/sepidannetir">تلگرام</a>
+  <a href="https://www.aparat.com/sepidan.ir">آپارات</a>
+  <a href="https://youtube.com/@sepidan_net?si=9Wp1z4bsuCfaHoxg">یوتیوب</a>
+  <a href="https://wa.me/989911382113">واتساپ</a>
+</body>
+</html>
